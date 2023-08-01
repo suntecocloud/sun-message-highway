@@ -29,7 +29,7 @@ import java.util.Map;
 public class SimpleProducer {
 
     public static void main(String[] args) throws InterruptedException {
-        String bootstrapServers = "sunteco-northvn-sun.sunteco.cloud:9094";
+        String bootstrapServers = "bootstrapServers";
         String apiKey = "myApiKey";
         String apiSecret = "myApiSecret";
 

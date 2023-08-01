@@ -20,7 +20,7 @@ import java.util.Map;
 public class SimpleConsumer {
 
     public static void main(String[] args) {
-        String bootstrapServers = "sunteco-northvn-sun.sunteco.cloud:9094";
+        String bootstrapServers = "bootstrapServers";
         String apiKey = "myApiKey";
         String apiSecret = "myApiSecret";
 
